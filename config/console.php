@@ -23,6 +23,7 @@ $config = [
             ],
         ],
         'db' => $db,
+        'scraper' => require __DIR__ . '/scraper.php',
     ],
     'params' => $params,
     /*
