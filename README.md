@@ -10,6 +10,6 @@ To run the command line scraper, issue the command
 
 # Acceptance Test
 There's an acceptance test case included. You can run it by:
-``` cd tests/codeception ```
-``` git@github.com:tochix/fruit-scraper.git ```
-``` ../../vendor/bin/codecept run acceptance tests/acceptance/ScraperCept.php ```
+- ``` cd tests/codeception ```
+- ``` git@github.com:tochix/fruit-scraper.git ```
+- ``` ../../vendor/bin/codecept run acceptance tests/acceptance/ScraperCept.php ```
