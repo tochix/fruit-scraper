@@ -1,4 +1,3 @@
-# fruit-scraper
 #Installation
 Run the following commands to get the app installed and running.
 
