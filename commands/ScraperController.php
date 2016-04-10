@@ -16,7 +16,7 @@ class ScraperController extends Controller
      */
     public function actionIndex()
     {
-    	$this->stdout("Starting to scrape ...\n", Console::FG_YELLOW);
+        $this->stdout("Starting to scrape ...\n", Console::FG_YELLOW);
         $data = Yii::$app->scraper->scrape();
         $this->stdout(json_encode($data));
         $this->stdout("\n");
