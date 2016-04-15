@@ -2,7 +2,7 @@
 Run the following commands to get the app installed and running.
 
 - ``` git clone git@github.com:tochix/fruit-scraper.git  ```
-- From the cloned app directory ``` composer update ``` 
+- From the cloned app directory ``` composer install ``` 
 
 # Usage
 To run the command line scraper, issue the command
